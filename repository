@@ -1,0 +1,17 @@
+git clone [URL]
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/[username]/[git-repo].git
+cd directory_name
+cd directory_name
+git clone [URL] directory_name
+git config --global user.name "Name"
+git config --global user.email "user@example.com"
+nano README.md
+I am editing the README file. Adding some more details about the project description.\
+
+git status
+git add README.md
+git commit
+I am editing the README file.
+git push origin main
